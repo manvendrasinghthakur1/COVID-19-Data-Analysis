@@ -8,6 +8,9 @@ Once the data is acquired, it is loaded into a relational database management sy
 The exploration phase involves formulating SQL queries to investigate different aspects of the COVID-19 data. These queries can encompass a wide range of analysis, including:
 
 Descriptive Statistics: Calculating summary statistics, such as total cases, average daily infections, or mortality rates, to gain an overview of the data.
+
 Filtering and Sorting: Selecting specific subsets of data based on conditions or criteria, such as filtering data by date, location, age group, or other relevant variables.
+
 Aggregation and Grouping: Summarizing data by aggregating values and grouping them based on specific attributes. For example, calculating total cases per country or daily new infections by age group.
+
 Joining and Combining Tables: Combining multiple tables to analyze relationships and associations between different datasets. This can involve joining COVID-19 data with demographic data or hospital capacity data to assess the impact on specific populations or healthcare systems.
